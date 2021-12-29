@@ -1,0 +1,11 @@
+This is a Beta for my tiny Operating system for the Microbit, the startup screen isn`t ready yet, but i`m working on it.
+You need to Hook up an VGA port like this:
+r goes to P0
+g goes to P1
+b goes to P2
+HSYNC goes to P12
+VSYNC goes to P16
+an PS/2 Keyboard interface is planned, and will be includet in the nxt Beta.
+You can hit the "a" button to Trigg an Bluescreen.
+
+Enjoy ;)
